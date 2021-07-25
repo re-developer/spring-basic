@@ -1,2 +1,13 @@
 # spring-basic
-spring basic setting
+
+## basic feature
+
+* db connection
+    * CRUD operation
+    * multi datasource
+    * jpa
+    * mybatis
+* redus connection
+* setting condiguration
+* web
+    * http api (json)
