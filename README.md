@@ -7,7 +7,7 @@
     * multi datasource
     * jpa
     * mybatis
-* redus connection
+* redis connection
 * setting condiguration
 * web
     * http api (json)
